@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
+locale                   : "en-GB"
+site_theme               : "dark"
 title                    : "Vishnu Ajith"
 title_separator          : "-"
 name                     : &name "Vishnu Ajith"
@@ -23,9 +23,9 @@ repository               : "charmerDark/charmerDark.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Vishnu Ajithhhhh"
+  name             : "Vishnu Ajith"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Curious happy-go-lucky student of life."
   location         : "Edinburgh"
   employer         : "University of Edinburgh"
   uri              : # URL
