@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-site_theme               : "dark"
+site_theme               : "default"
 title                    : "Vishnu Ajith"
 title_separator          : "-"
 name                     : &name "Vishnu Ajith"
@@ -22,7 +22,7 @@ repository               : "charmerDark/charmerDark.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Vishnu Ajith"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Curious happy-go-lucky student of life."
@@ -88,7 +88,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
