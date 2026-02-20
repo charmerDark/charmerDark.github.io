@@ -11,54 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* *M.Sc. in Artificial Intelligence*, University of Edinburgh, 2025
+  * Thesis: *Tetricks: An einsum tensor compiler for Coarse Grain Reconfigurable Arrays*
+* *B.Tech Honors in Computer Science and Engineering*, Indian Institute of Information Technology Kottayam, 2022
+  * Thesis: *Quantum machine learning for cryptanalysis of simple ciphers*
+* *Professional Certificate in Quantum Computing & Quantum Internet*, Delft University (EdX), 2020
+* *Deep Learning Specialization*, Deeplearning.ai (Coursera), 2020
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* *2020 - Present: Open Source efforts*
+  * JAX, Qiskit, Pennylane, QRAND, PyZX
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* *2025 - Present: Staff AI Engineer @ Synopsys*
+  * Building LLM-assisted Electronic Design Automation (EDA) tools for physical design in VLSI, as part of the Copilot R&D team in the Technology Production Group.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* *2022 - 2024: Graphics PD Engineer @ Intel India Technologies*
+  * Led multi-voltage verification for physical design of graphics IPs in the Visual and Machine Learning IP group.
+
+* *Summer 2021: Summer Research Fellow @ Indian Academy of Sciences*
+  * Adapting deep learning computer vision techniques to ultrasound domain.
+
+* *Sep - Oct 2021: Data Science Intern @ Husqvarna AI Labs*
+  * Developed real-time data visualization dashboards using PySpark SQL and Hive for global sales teams.
+
+* *Summer 2020: Machine Learning Intern @ AAIWAY India*
+  * Built a Flask-based cloud backend for employee face recognition authentication with OpenVINO inference optimization on edge devices.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% endcomment %}
