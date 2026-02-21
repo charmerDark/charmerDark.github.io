@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Vishnu Ajith"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Staff AI Engineer @ Synopsys | Msc AI @ Univsity of Edinburgh | Ex-Intel GPU Design| Qiskit Advocate| Open Source Software | Reading | Travelling"
+  bio              : "Staff AI Engineer @ Synopsys | Msc AI @ University of Edinburgh | Ex-Intel GPU Design| Qiskit Advocate| Open Source Software | Reading | Travelling"
   location         : "Edinburgh"
-  employer         : "University of Edinburgh"
+  employer         : "Synopsys, Inc."
   uri              : # URL
   email            : "vishnuajith+pwbst@gmail.com" 
 
